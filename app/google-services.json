@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1043345814577",
+    "project_id": "geza-crud-firebase",
+    "storage_bucket": "geza-crud-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043345814577:android:7f28e7509d2e4309b95110",
+        "android_client_info": {
+          "package_name": "com.example.gezacrudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043345814577-svas46onv6lgpvmd5qjc2pk32qv9sgo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGU51hJTY9mLguiO0qYrDLvIzsS5uD5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043345814577-svas46onv6lgpvmd5qjc2pk32qv9sgo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043345814577:android:66d1b1e95e52d196b95110",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043345814577-svas46onv6lgpvmd5qjc2pk32qv9sgo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGU51hJTY9mLguiO0qYrDLvIzsS5uD5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043345814577-svas46onv6lgpvmd5qjc2pk32qv9sgo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
